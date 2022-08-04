@@ -1,4 +1,4 @@
-from turtle import Turtle, bgpic
+from turtle import Turtle
 
 MOVE_DISTANCE = 20
 START_POSITIONS = [(0, 0), (-20, 0), (-40, 0)]
